@@ -14,7 +14,6 @@
 # limitations under the License.
 
 COMMON_PATH        := device/samsung/loganrelte-common
-COMMON_VENDOR_PATH := vendor/samsung/loganrelte-common
 DEVICE_PATH        := device/samsung/loganreltexx
 DEVICE_VENDOR_PATH := vendor/samsung/loganreltexx
 PLATFORM_PATH      := device/samsung/msm8930-common
